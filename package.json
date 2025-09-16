@@ -1,0 +1,22 @@
+{
+  "name": "fpl-team-ui-clone",
+  "version": "0.1.0",
+  "private": true,
+  "description": "A UI/style clone of https://www.fplgameweek.com/#/25/team/873795/league/150385 built with React and TailwindCSS.",
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-scripts": "5.0.1"
+  },
+  "devDependencies": {
+    "tailwindcss": "^3.3.0",
+    "autoprefixer": "^10.4.0",
+    "postcss": "^8.4.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  }
+}
