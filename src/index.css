@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Custom styles for pitch background, if desired */
+.pitch-bg {
+  background: radial-gradient(ellipse at center, #47a447 60%, #217a21 100%);
+}
